@@ -1,0 +1,31 @@
+tempo: 120
+drum_mappings:
+  C4: "Kick Drum"
+  D4: "Snare Drum"
+  E4: "Hi-Hat"
+  F4: "Tom"
+  G4: "Crash Cymbal"
+  C3: "Low Tom"
+  F3: "Mid Tom"
+  C2: "Bass Drum"
+  A2: "Rimshot"
+  B2: "Clap"
+  E2: "Low Conga"
+pattern_length: 16
+division: 4
+swing: 0.0
+volume_levels:
+  "Kick Drum": 80
+  "Snare Drum": 70
+  "Hi-Hat": 60
+  "Tom": 75
+  "Crash Cymbal": 65
+  "Low Tom": 70
+  "Mid Tom": 72
+  "Bass Drum": 85
+  "Rimshot": 75
+  "Clap": 68
+  "Low Conga": 72
+input_file: "sample.xml"
+output_file: "output.h2pattern"
+
